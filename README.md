@@ -1,22 +1,40 @@
-FEATURES
-.....................
+ Hasher
 
-HASHER HAS A SET ALOGORITHS BASE ON HASHING INCLUDED:
-FILE HASHING
-TEXT HASHING
+Secure password and txt file by turning into hash
 
-ALOGORITHS ARE:
-SHA256
-MD5
-SHAKE256
-SHAKE256
-......................
+## Screenshots
 
-YOU CAN EXPLORE MORE ON THE OPTION 
-THIS TOOL IS TO BUILD A BAISC KNOWNLEDGE OF HWO ENCRYPTION WORKS BECAUSE IT MIGHT ME USFUL
-HASHING IS NOT ENCYPTION BUT IT GAVE ME KNOWNLEDGE ON IT SOON WE GO DEEPER 
+![App Screenshot](https://raw.githubusercontent.com/ghostx313/Hasher/refs/heads/main/Screenshot%20at%202025-08-18%2010-22-55.png
+)
+![App Screenshot](https://raw.githubusercontent.com/ghostx313/Hasher/refs/heads/main/Screenshot%20at%202025-08-18%2010-29-39.png
+)
+![App Screenshot](https://raw.githubusercontent.com/ghostx313/Hasher/refs/heads/main/Screenshot%20at%202025-08-18%2010-48-02.png
+)
 
-....................
+## Installation
 
-YOU CAN SEE MORE ON THIS PROJUST ON THIS README.TXT 
-THAT ALL AND PLEASE MAKE THIS TOOL FUN AND USE IT TO CHAT WITH YOUR FRINDS WITH HASH BECAUSE DO DATA IS FREE 
+For debian based linux os
+
+sudo apt install python3 -y
+git clone https://github.com/ghostx313/Hasher.git
+cd Hasher
+sudo pip3 install hashlib
+python3 cracker.py
+For termux
+
+pkg install python -y
+pkg install git -y
+git clone https://github.com/ghostx313/Hasher.git
+cd Hasher
+pip install hashlib
+python cracker.py
+
+For arch based linux os
+
+sudo pacman -Sy python3 -y
+git clone https://github.com/ghostx313/Hasher.git
+cd Hasher
+sudo pacman -S python-hashlib
+python3 cracker.py
+
+## provided by ghostx313
