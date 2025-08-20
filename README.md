@@ -1,4 +1,4 @@
- # Hasher
+# Hasher
 
 Secure password and txt file by turning into hash
 
@@ -14,7 +14,7 @@ Secure password and txt file by turning into hash
 ## Installation
 
 For debian based linux os
-
+```bash
 sudo apt install python3 -y
 git clone https://github.com/ghostx313/Hasher.git
 cd Hasher
@@ -28,7 +28,7 @@ git clone https://github.com/ghostx313/Hasher.git
 cd Hasher
 pip install hashlib
 python cracker.py
-
+```
 For arch based linux os
 
 sudo pacman -Sy python3 -y
@@ -36,5 +36,5 @@ git clone https://github.com/ghostx313/Hasher.git
 cd Hasher
 sudo pacman -S python-hashlib
 python3 cracker.py
-
+```
 ## provided by ghostx313
