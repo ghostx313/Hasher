@@ -21,7 +21,9 @@ cd Hasher
 sudo pip3 install hashlib
 python3 cracker.py
 For termux
-
+```
+termux
+```bash
 pkg install python -y
 pkg install git -y
 git clone https://github.com/ghostx313/Hasher.git
@@ -29,8 +31,9 @@ cd Hasher
 pip install hashlib
 python cracker.py
 ```
-For arch based linux os
 
+For arch based linux os
+```bash
 sudo pacman -Sy python3 -y
 git clone https://github.com/ghostx313/Hasher.git
 cd Hasher
