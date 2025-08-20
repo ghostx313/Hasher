@@ -20,7 +20,6 @@ git clone https://github.com/ghostx313/Hasher.git
 cd Hasher
 sudo pip3 install hashlib
 python3 cracker.py
-For termux
 ```
 termux
 ```bash
